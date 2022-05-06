@@ -98,7 +98,7 @@ The authors of this website were curently studying at Sorsogon State University 
         
       [Facebook](https://www.facebook.com/profile.php?id=100006670065294)
 
-      [Github](https://github.com/GeraldGavrra)
+      [Github](https://github.com/GeraldGavarra)
 
 
 # REFERENCE
