@@ -64,7 +64,7 @@ The authors of this website were curently studying at Sorsogon State University 
 
        "Acceptance matters me the most."
 
-       Movies and books consume most of my time.
+       Movies and books consumes most of my time.
 
        Red is my favorite color.
 
@@ -86,7 +86,7 @@ The authors of this website were curently studying at Sorsogon State University 
 
        I was born on September 2, 2001. 🎉
 
-       I lived in Purok 5, Barangay Tabunan, Matnog, Sorsogon 🗾.
+       I lived in Purok 5, Barangay Tabunan, Matnog, Sorsogon.
 
        I'm a 2nd year college BSIT student 👨‍💻at Sorsogon State University - Bulan Campus.
 
@@ -94,8 +94,7 @@ The authors of this website were curently studying at Sorsogon State University 
 
        Movies🎬 and Online Games 🎮 consume most of my time.
 
-       Black 🖤 is my favorite color.
-  
+       Black is my favorite color.  
         
       [Facebook](https://www.facebook.com/profile.php?id=100006670065294)
 
