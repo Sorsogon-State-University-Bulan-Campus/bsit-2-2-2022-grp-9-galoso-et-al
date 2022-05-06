@@ -2,9 +2,10 @@
  
 Given a broad usage, the domestic application attached to the home appliance is tied to the definition of appliance as "an instrument or device designed for a particular use or function. More specifically, home appliances as devices or machines, usually electrical, that are in your home and which you use to do jobs such as cleaning or cooking. The broad usage, afforded to the definition allows fo nearly any device intended for domestic use to be a home appliance.
 
+
 # FAQ
 
-### 1. What is the content of this website?
+### 1. What is the content of this website? 
 
 This website tends to present various home appliances which you need for your home appliances which you need for your home for having an easy flow of living.
 
@@ -18,10 +19,13 @@ Yes, this website shows how these appliances make life easier for people. using 
 
 
   
-# AUTHORS 
+# AUTHORS 📒
 The authors of this website were curently studying at Sorsogon State University - Bulan Campus. A second-year college student taking a Bachelor of Science in Information Technology. 
 
+
   * Hello! I am Lara Coreen A. Galoso, and here are some interesting facts about me!
+
+
 
        I'm 20 years old
 
@@ -33,15 +37,19 @@ The authors of this website were curently studying at Sorsogon State University 
 
        " Dance is the hidden language of the soul." - Martha Graham
 
-       Dancing, sewing, and draw are the things I love and enjoy doing. 
+       Dancing, sewing, and draw are the things I love and enjoy doing. 💃
 
        Pantone colors are my favorite lately.
   
-             Facebook:
-             Github: 
+      [Facebook](https://web.facebook.com/lc.galoso)
+      
+      [Github](https://github.com/laragaloso)
+            
 
 
 
+  
+  
   
   
   * Hi! I am Mhar A. Navarro, and here are some interesting facts about me!
@@ -60,20 +68,42 @@ The authors of this website were curently studying at Sorsogon State University 
 
        Red is my favorite color.
 
-             Facebook
-             Github 
+      [Facebook](https://www.facebook.com/profile.php?id=100075392478229)
+      
+      [Github](https://github.com/mharnavarro22)
+
 
 
 
   
-  * Gerald C. Gavarra
   
-        github username: GeraldGavarra
-        github profile: 
+  
+  
+  
+  * Hi! I'm Gerald C. Gavarra👨‍🎓 and here are some interesting facts about me! 
+
+       I'm 20 years old.
+
+       I was born on September 2, 2001. 🎉
+
+       I lived in Purok 5, Barangay Tabunan, Matnog, Sorsogon 🗾.
+
+       I'm a 2nd year college BSIT student 👨‍💻at Sorsogon State University - Bulan Campus.
+
+       Take the risk or lose a chance. You decide.
+
+       Movies🎬 and Online Games 🎮 consume most of my time.
+
+       Black 🖤 is my favorite color.
+  
+        
+      [Facebook](https://www.facebook.com/profile.php?id=100006670065294)
+
+      [Github](https://github.com/GeraldGavrra)
+
 
 # REFERENCE
-
-# SPECIAL THANKS
+[Wikipedia](https://en.m.wikipedia.org/wiki/Home_appliance)
 
 
 
