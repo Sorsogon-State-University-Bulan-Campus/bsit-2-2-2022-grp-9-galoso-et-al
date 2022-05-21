@@ -35,7 +35,7 @@ The authors of this website were curently studying at Sorsogon State University 
 
        A 2nd-year college BSIT student at Sorsogon State University - Bulan Campus.
 
-       " Dance is the hidden language of the soul." - Martha Graham
+       "Dance is the hidden language of the soul." - Martha Graham
 
        Dancing, sewing, and draw are the things I love and enjoy doing. 💃
 
@@ -73,11 +73,6 @@ The authors of this website were curently studying at Sorsogon State University 
       [Github](https://github.com/mharnavarro22)
 
 
-
-
-  
-  
-  
   
   
   * Hi! I'm Gerald C. Gavarra👨‍🎓 and here are some interesting facts about me! 
@@ -103,6 +98,15 @@ The authors of this website were curently studying at Sorsogon State University 
 
 # REFERENCE
 [Wikipedia](https://en.m.wikipedia.org/wiki/Home_appliance)
+
+
+# ACKNOLEDGEMENTS
+
+We, the writers of this website, are thankful to Sir Anthony Gracis, our Integrative Programming and Languages instructor, for teaching us how to create a real and professional-looking website. Despite the time constraints, our instructor took the time to teach us about our group project.
+
+We'd also want to thank Lara's cousin, for lending us her laptop so we could finish and submit our project on time.
+
+Finally, we want to express our gratitude to each of us for working so hard to complete this project. It provides us with a great deal of enjoyment and information as we discover new things when building websites.
 
 
 
