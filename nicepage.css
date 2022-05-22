@@ -423,7 +423,7 @@ dfn {
 }
 h1 {
   font-size: 2em;
-  margin: 0.67em 0;
+  margin: 0.67em 0;  
 }
 mark {
   background-color: #ff0;
@@ -18148,6 +18148,7 @@ a.pswp__share--download:hover {
     transform: scale(0.1) translate3d(-2000px, 0, 0);
     transform-origin: left center;
   }
+  
 }
 .zoomOutLeft {
   animation-name: zoomOutLeft;
