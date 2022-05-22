@@ -134,7 +134,7 @@ The authors of this website were curently studying at Sorsogon State University 
 
 ## ACKNOWLEDGEMENTS 🌻
 
-We, the creators of this website, are thankful to Sir Anthony Gacis, our instructor in Integrative Programming and Languages subject, for teaching us how to create a real and professional-looking website. Despite the time constraints, our instructor took the time to teach us about our group project.
+We, the developers of this website, are thankful to Sir Anthony Gacis, our instructor in Integrative Programming and Languages subject, for teaching us how to create a real and professional-looking website. Despite the time constraints, our instructor took the time to teach us about our group project.
 
 We'd also want to thank Lara's cousin, for lending us her laptop so we could finish and submit our project on time.
 
