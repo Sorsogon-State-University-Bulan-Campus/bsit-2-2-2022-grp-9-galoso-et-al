@@ -88,7 +88,7 @@ The authors of this website were curently studying at Sorsogon State University 
       [Github](https://github.com/GeraldGavarra)
 
 
-# REFERENCE
+# REFERENCES
 [Article](https://en.m.wikipedia.org/wiki/Home_appliance)
 
 [RefrigeratorImage](https://www.bing.com/images/search?view=detailV2&ccid=vcXzBqLA&id=87257730647F3C4BC2414622F63191DABBBFF03C&thid=OIP.vcXzBqLA1oiJUYpVON8C4AD5D5&mediaurl=https%3A%2F%2Fwww.premiumus.com%2Fdownload.php%3Fpath%3Dpremium_products%2Fwhite_goods%2Frefrigerators%2FPRF7160MS%26filename%3Dlo.jpg%26model%3Dlo_PRF7160MS.jpg&exph=450&expw=450&q=refrigerator+images&simid=608022590384265433&form=IRPRST&ck=3015A2241087046A436AD786683B0C60&selectedindex=5&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_fV1gZN67*cp_E6620C36F9F99955C501C5EB5E8E13D2*mid_60B78F7515C78742C549F84AA678E39B3D6F3B56*simid_607992744655022753*thid_OIP.fV1gZN67PU-Z5!_VMmNuUNQHaHa&vt=0&sim=11&iss=VSI)
@@ -127,6 +127,7 @@ The authors of this website were curently studying at Sorsogon State University 
 
 [BackgroundImage](https://www.bing.com/images/search?view=detailV2&ccid=tqfz2hDh&id=233EEC8BA955C2357A550E73F525FC75DDC895CB&thid=OIP.tqfz2hDhF8E1R1p6zcLPegHaE8&mediaurl=https%3a%2f%2fs3-ap-southeast-2.amazonaws.com%2fgetquickspark.com.au%2fghost-content%2f2019%2f12%2fHow-Long-Should-Your-Electrical-Appliances-Last.jpg&exph=1000&expw=1500&q=Images+of+Appliances&simid=607992542788484251&FORM=IRPRST&ck=FD5F80A8C5590BF48F30EDA412D53F26&selectedIndex=6&ajaxhist=0&ajaxserp=0)
 
+[Nicepage](https://nicepage.com)
 
 
 
