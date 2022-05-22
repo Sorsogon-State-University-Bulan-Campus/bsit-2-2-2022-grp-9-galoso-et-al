@@ -3,7 +3,7 @@
 Given a broad usage, the domestic application attached to the home appliance is tied to the definition of appliance as "an instrument or device designed for a particular use or function. More specifically, home appliances as devices or machines, usually electrical, that are in your home and which you use to do jobs such as cleaning or cooking. The broad usage, afforded to the definition allows fo nearly any device intended for domestic use to be a home appliance.
 
 
-# FAQ
+# FAQ ❓ 
 
 ### 1. What is the content of this website?  🖊️
 
@@ -52,7 +52,7 @@ The authors of this website were curently studying at Sorsogon State University 
       
        I lived in Purok 2, Baranggay Dolos, Bulan, Sorsogon.
 
-       A 2nd-year college BSIT student at Sorsogon State University - Bulan Campus.
+       A 2nd-year college BSIT student at Sorsogon State University - Bulan Campus.🧑
 
        "Acceptance matters me the most."🎉
 
@@ -88,7 +88,7 @@ The authors of this website were curently studying at Sorsogon State University 
       [Github](https://github.com/GeraldGavarra)
 
 
-# REFERENCES
+# REFERENCES 🔗
 [Article](https://en.m.wikipedia.org/wiki/Home_appliance)
 
 [RefrigeratorImage](https://www.bing.com/images/search?view=detailV2&ccid=vcXzBqLA&id=87257730647F3C4BC2414622F63191DABBBFF03C&thid=OIP.vcXzBqLA1oiJUYpVON8C4AD5D5&mediaurl=https%3A%2F%2Fwww.premiumus.com%2Fdownload.php%3Fpath%3Dpremium_products%2Fwhite_goods%2Frefrigerators%2FPRF7160MS%26filename%3Dlo.jpg%26model%3Dlo_PRF7160MS.jpg&exph=450&expw=450&q=refrigerator+images&simid=608022590384265433&form=IRPRST&ck=3015A2241087046A436AD786683B0C60&selectedindex=5&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_fV1gZN67*cp_E6620C36F9F99955C501C5EB5E8E13D2*mid_60B78F7515C78742C549F84AA678E39B3D6F3B56*simid_607992744655022753*thid_OIP.fV1gZN67PU-Z5!_VMmNuUNQHaHa&vt=0&sim=11&iss=VSI)
@@ -132,9 +132,9 @@ The authors of this website were curently studying at Sorsogon State University 
 
 
 
-## ACKNOWLEDGEMENTS
+## ACKNOWLEDGEMENTS 🌻
 
-We, the creators of this website, are thankful to Sir Anthony Gracis, our instructor in Integrative Programming and Languages subject, for teaching us how to create a real and professional-looking website. Despite the time constraints, our instructor took the time to teach us about our group project.
+We, the creators of this website, are thankful to Sir Anthony Gacis, our instructor in Integrative Programming and Languages subject, for teaching us how to create a real and professional-looking website. Despite the time constraints, our instructor took the time to teach us about our group project.
 
 We'd also want to thank Lara's cousin, for lending us her laptop so we could finish and submit our project on time.
 
